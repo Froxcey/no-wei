@@ -1,0 +1,23 @@
+{
+  "name": "no-wei",
+  "version": "1.0.0",
+  "description": "Fighting the demon king of web standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Froxcey/no-wei.git"
+  },
+  "keywords": [],
+  "author": "Froxcey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Froxcey/no-wei/issues"
+  },
+  "homepage": "https://github.com/Froxcey/no-wei#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -4,6 +4,8 @@ Stop Google from taking over the web. For more information, please see [me](http
 
 ## Usage
 
+<img width="552" alt="No WEI example" src="https://github.com/Froxcey/no-wei/assets/51555391/6ef88d5a-010d-4769-8770-346ea6ed9904">
+
 Add this to the end of your website:
 
 ```html

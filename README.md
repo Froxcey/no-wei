@@ -1,5 +1,7 @@
 # No WEI
 
+> Do you use Svelte? Check out [no-wei-svelte](https://github.com/Froxcey/no-wei-svelte)!
+
 Stop Google from taking over the web. For more information, please see [me](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet).
 
 ## Usage
@@ -19,4 +21,3 @@ Issues and Pull Requests are welcome
 ## To-do
 
 - [ ] Add Styling configuration
-

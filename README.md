@@ -1,3 +1,6 @@
+> # ⚠️ Deprecated
+> [WEI has been reverted](https://chromium-review.googlesource.com/c/chromium/src/+/5001989), so I am deprecating this project.
+
 # No WEI
 
 > Do you use Svelte? Check out [no-wei-svelte](https://github.com/Froxcey/no-wei-svelte)!
